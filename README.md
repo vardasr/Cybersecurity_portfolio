@@ -1,2 +1,3 @@
 # Cybersecurity_portfolio
-A portfolio of hands-on cybersecurity labs including SIEM analysis, OSINT investigations, and network traffic analysis
+Hi, I'm Maya Ren Vardas, an aspiring cybersecurity analyst specializing in cybercrime and OSINT. This portfolio demonstrates my hands-on projects, labs, and skills
+#
