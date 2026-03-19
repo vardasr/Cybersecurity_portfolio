@@ -1,1 +1,2 @@
-
+# Overview
+The Setting of this lab is an ongoing investigation into the activities of Beverly Gates, the HR Manager at Intricate Solutions, Inc. Senior leadership has reason to believe that Beverly is involved in a sophisticated drug trafficking operation and has recently brought in the police to investigate the matter further. As a forensic analyst working with the police, you have been given a drive image taken from Beverly's work laptop and tasked with reviewing its contents for forensic evidence of suspicious activity.
