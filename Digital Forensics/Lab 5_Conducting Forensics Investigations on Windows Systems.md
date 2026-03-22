@@ -10,4 +10,4 @@ The setting of this lab is an ongoing investigation into the activities of Bever
 ## Summary
 In this lab I had many important concepts to learn. First I will use several Windows utilities to perform live analysis on a Windows Server 2019 system. I will then explore one of the most evidence-rich areas of the Windows operating system - Windows Registry. I will finally  shift my attention to a Windows drive image and conduct forensics analysis using Paraben's E3.
 
-[4_Conducting_Forensic_Investigations_on_Email_and_Chat_Logs_4e_-_Ren_Vardas.pdf.docx](https://github.com/user-attachments/files/26168539/4_Conducting_Forensic_Investigations_on_Email_and_Chat_Logs_4e_-_Ren_Vardas.pdf.docx)
+[6_Conducting_Forensic_Investigations_on_Windows_Systems_4e_-_Ren_Vardas (1).pdf.docx](https://github.com/user-attachments/files/26168607/6_Conducting_Forensic_Investigations_on_Windows_Systems_4e_-_Ren_Vardas.1.pdf.docx)
