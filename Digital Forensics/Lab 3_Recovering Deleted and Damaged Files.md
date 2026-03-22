@@ -10,4 +10,4 @@ In this lab, I will assume the role of digital forensics specialist who has been
 ## Summary
 For this lab I had three important concepts to learn. The first concept was recovering deleted files from an NTFS Drive Image with E3 and recovering deleted files from an Ext4 Drive Image with Autopsy. The second concept that I learned was in windows while using DiskDigger tool and in Linux using PhotoRec. The final concept I had to learn was puting this all together and finding the recovered data in the evidence folder.
 
-[3_Conducting_Forensic_Investigations_on_Mobile_Devices_4e_-_Ren_Vardas.pdf.docx](https://github.com/user-attachments/files/26168371/3_Conducting_Forensic_Investigations_on_Mobile_Devices_4e_-_Ren_Vardas.pdf.docx)
+[5_Recovering_Deleted_and_Damaged_Files_4e_-_Ren_Vardas.pdf.docx](https://github.com/user-attachments/files/26168581/5_Recovering_Deleted_and_Damaged_Files_4e_-_Ren_Vardas.pdf.docx)
