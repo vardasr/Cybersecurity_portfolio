@@ -1,0 +1,2 @@
+# Overview
+The setting of this lab is an ongoing investigation into the activities of Beverly Gates, the HR manager at Intricate Solutions, Inc. Senior leadership has reason to believe that Beverly is involved in a sophisticated drug trafficking operation with ties to the Russian mafia and has recently brought contacted the authorities to investigate the matter further. As a forensic analyst assigned to the case, I have been given a drive image taken from Beverly's work laptop and tasked with reviewing its contents for forensic evidence of suspicious activity.
