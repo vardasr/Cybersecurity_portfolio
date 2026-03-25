@@ -13,14 +13,14 @@
    - Use FamilyTreeNow to investigate an individual by name.
    - Summarize the results, including any associated addresses, phone numbers or relatives, and their relevance to an investigation.
 
-   [4_Name Search_Topic_Cybercrime_Threat_Analysis.docx](https://github.com/user-attachments/files/26249916/4_Name.Search_Topic_Cybercrime_Threat_Analysis.docx)
+     [4_Name Search_Topic_Cybercrime_Threat_Analysis.docx](https://github.com/user-attachments/files/26249916/4_Name.Search_Topic_Cybercrime_Threat_Analysis.docx)
      
 3. Reverse Image Search:
 
    - Use a reverse image tool (e.g., Google Images, TinEye) to trace the origins of a publicly available photo.
    - Provide findings and explain how such searches aid investigative work.
-  
-    [3_Reverse Image Search.docx](https://github.com/user-attachments/files/26249958/3_Reverse.Image.Search.docx)
+
+     [3_Reverse Image Search.docx](https://github.com/user-attachments/files/26249958/3_Reverse.Image.Search.docx)
      
 4. Additional OSINT Tools:
 
